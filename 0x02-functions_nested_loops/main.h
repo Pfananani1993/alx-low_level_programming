@@ -1,14 +1,14 @@
 int _putchar(char c);
 
-int print_alphabet(void);
+void _print_alphabet(void);
 
-int print_alphabet_x10(void);
+void _print_alphabet_x10(void);
 
-int _islower(int c);
+int _islowe(int c);
 
 int _isalpha(int c);
 
-int _print_sign(int n);
+int print_sign(int n);
 
 int _abs(int);
 
@@ -16,7 +16,7 @@ int print_last_digit(int);
 
 void jack_baver(void);
 
-void times_table(void);
+void time_table(void);
 
 int add(int, int);
 
